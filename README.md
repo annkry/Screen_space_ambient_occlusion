@@ -15,3 +15,6 @@ In order to run the program, simply run the `python main.py` or `python3 main.py
 ## Add your files
 
 In the `models` directory, new models with the `ply` extension (ASCII) can be added, in addition to the existing ones. Please ensure that each model contains both positions and normals.
+
+## Our group poster
+![](Poster_SSAO.PNG)
